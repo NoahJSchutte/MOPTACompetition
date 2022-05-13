@@ -1,0 +1,2 @@
+h,InitialTemperature,FinalTemperature,NrIterations,AcceptedCandidates,BestSolutionIteration,SolutionObjective,SolveTime,TimeOut
+1.01,363.8273907083467,1,2000,1129,1680,12774.211340525168,2928.7917869091034,False
