@@ -23,3 +23,4 @@ runs the SH for an instance size of 70 (\textit{-i 70}) with samples from 50 sce
 
 ``` python3 main.py alns -h ```
 
+Note that the first time running the SH it can take up to 15 minutes to compile.
