@@ -1,6 +1,6 @@
 # AIMMS-Modelling-Contest-22
 
-This repository houses the implementations of the solutions developed by the TUD team as part of the [https://iccopt2022.lehigh.edu/competition-and-prizes/aimms-mopta-competition/](AIMMS-MOPTA 2022 optimization modeling competition) [1].
+This repository houses the implementations of the solutions developed by the TUD team as part of the [AIMMS-MOPTA 2022 optimization modeling competition](https://iccopt2022.lehigh.edu/competition-and-prizes/aimms-mopta-competition/) [1].
 
 The folder optimisation-model contains the implementation of our deterministic and stochastic optimisation approach while the sim-heuristic folder contains the implementation of our sim-heuristic approach. To run a solution, call 
 
