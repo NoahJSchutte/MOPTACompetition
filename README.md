@@ -1,6 +1,6 @@
 # AIMMS-Modelling-Contest-22
 
-This repository houses the implementations of the solutions developed by the TUD team as part of the AIMMS-MOPTA 2022 optimization modeling competition.
+This repository houses the implementations of the solutions developed by the TUD team as part of the [AIMMS-MOPTA 2022 optimization modeling competition](https://iccopt2022.lehigh.edu/competition-and-prizes/aimms-mopta-competition/) [1].
 
 The folder optimisation-model contains the implementation of our deterministic and stochastic optimisation approach while the sim-heuristic folder contains the implementation of our sim-heuristic approach. To run a solution, call 
 
@@ -24,3 +24,6 @@ runs the SH for an instance size of 70 (\textit{-i 70}) with samples from 50 sce
 ``` python3 main.py alns -h ```
 
 Note that the first time running the SH it can take up to 15 minutes to compile.
+
+
+[1] Karmel S. Shehadeh and Luis F. Zuluaga (2022). "14th AIMMS-MOPTA Optimization Modeling Competition. Surgery Scheduling in Flexible Operating Rooms Under Uncertainty", Modeling and Optimization: Theory and Application (MOPTA), website accessed on May 16, 2022. Available: https://iccopt2022.lehigh.edu/competition-and-prizes/aimms-mopta-competition/
